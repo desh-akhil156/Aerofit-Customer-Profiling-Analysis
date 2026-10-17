@@ -16,7 +16,7 @@ The primary objective is to use descriptive statistics and conditional probabili
 * **Data Manipulation & Cleaning:** Pandas, NumPy
 * **Statistical Analysis:** SciPy (Probability metrics)
 * **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / Google Colab
+* **Environment:** Google Colab
 
 ---
 
